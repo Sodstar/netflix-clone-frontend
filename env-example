@@ -1,0 +1,2 @@
+MOVIE_API_URL_APPKEY=https://api.themoviedb.org/3/movie/top_rated?api_key=2ea05c2f444f6fe57492711ba6641efa
+IMAGE_BASE_URL=https://image.tmdb.org/t/p/original
